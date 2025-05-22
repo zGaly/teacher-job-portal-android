@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486651347349",
+    "project_id": "gappacademy-f2364",
+    "storage_bucket": "gappacademy-f2364.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486651347349:android:3138960c0f6df1f5d8769c",
+        "android_client_info": {
+          "package_name": "ipca.aulas.gappacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOVyd3GU3D9gsSwJGRTY5mVoIyrN9boxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
